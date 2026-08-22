@@ -4,7 +4,7 @@
 
 > 本仓库为 CetaceaHub 的官方发布渠道，提供软件更新信息与安装包下载。项目源代码不在本仓库。
 
-[![Release](https://img.shields.io/badge/release-v1.2.0-3ddc84)](../../releases)
+[![Release](https://img.shields.io/github/v/release/se9temB3R/CetaceaHub?color=3ddc84)](../../releases)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Platform](https://img.shields.io/badge/platform-Windows%20x64-lightgrey)](../../releases)
 
