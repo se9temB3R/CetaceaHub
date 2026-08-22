@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.1.0/CetaceaHubSetup-1.1.0.exe",
-  "notes": "新增：自动检查更新（启动后与每天自动查一次，有新版本时界面顶部横幅 + 托盘气泡提醒，点击直达下载）。\n修复：Hub 切换模型后 /模型列表 仍显示旧模型。"
+  "version": "1.1.1",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.1.1/CetaceaHubSetup-1.1.1.exe",
+  "notes": "修复：/当前状态 发送失败（状态文本被误拼为元组导致 NapCat 拒收）。\n新增（1.1.0 起）：自动检查更新，发现新版本时界面横幅 + 托盘气泡提醒。"
 }
