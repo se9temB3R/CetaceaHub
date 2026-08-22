@@ -1,5 +1,5 @@
 {
   "version": "1.2.0",
   "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.2.0/CetaceaHubSetup-1.2.0.exe",
-  "notes": "新增：一键重启、切换 bot QQ、托盘退出自动全部停止、DeepSeek 余额实时查询、人格称呼禁忌（不喊爸爸妈妈，哥哥姐姐可以）。\n修复：/当前状态 发送失败。"
+  "notes": "新增：一键重启；机器人 QQ 账号切换；托盘退出自动停止全部服务；DeepSeek 余额实时查询；人格称呼禁忌规则。\n修复：/当前状态 指令发送失败。"
 }
