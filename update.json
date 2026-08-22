@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.2.1/CetaceaHubSetup-1.2.1.exe",
-  "notes": "优化：管理员指令规范化——功能开关调整为 /随机插话 0|1、/内容限制 0|1、/开场问候 0|1、/看图识别 0|1；聊天模式指令调整为 /聊天模式 ai|human（AI 模式/真人模式）。"
+  "version": "1.2.2",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.2.2/CetaceaHubSetup-1.2.2.exe",
+  "notes": "修复：重启控制核心偶发失败（端口交接竞态与运行时依赖缺失）；窗口宿主启动异常。\n新增：视觉模型可同时作为聊天模型使用（模型档增加「也可作聊天模型」选项）。"
 }
