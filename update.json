@@ -1,5 +1,6 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.2.2/CetaceaHubSetup-1.2.2.exe",
-  "notes": "修复：重启控制核心偶发失败（端口交接竞态与运行时依赖缺失）；窗口宿主启动异常。\n新增：视觉模型可同时作为聊天模型使用（模型档增加「也可作聊天模型」选项）。"
+  "version": "1.3.0",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.3.0/CetaceaHubSetup-1.3.0.exe",
+  "sha256": "2F9743F141F6ADFB8CF1D441E2E7634E4D7579EF57A2E6597F9B6EC920DFC745",
+  "notes": "修复：重启控制核心偶发失败（端口交接竞态与运行时依赖缺失）；窗口宿主启动异常；采用 ONEDIR 发布方式提升稳定性。\n新增：一键自动下载更新（SHA256 校验 + 进度 + 一键运行安装）；视觉模型可同时作为聊天模型使用。"
 }
