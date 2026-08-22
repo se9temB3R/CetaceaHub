@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.1.1/CetaceaHubSetup-1.1.1.exe",
-  "notes": "修复：/当前状态 发送失败（状态文本被误拼为元组导致 NapCat 拒收）。\n新增（1.1.0 起）：自动检查更新，发现新版本时界面横幅 + 托盘气泡提醒。"
+  "version": "1.2.0",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.2.0/CetaceaHubSetup-1.2.0.exe",
+  "notes": "新增：一键重启、切换 bot QQ、托盘退出自动全部停止、DeepSeek 余额实时查询、人格称呼禁忌（不喊爸爸妈妈，哥哥姐姐可以）、予人格管理员动态化。\n修复：/当前状态 发送失败。"
 }
