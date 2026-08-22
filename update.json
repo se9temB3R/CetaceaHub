@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/latest/download/CetaceaHubSetup-1.0.1.exe",
+  "notes": "修复：Hub 切换模型后 /模型列表 仍显示旧模型（改为管理员指令即时热加载）。\n新增：检查更新默认更新源（以后点「检查更新」即可发现新版本）。"
+}
