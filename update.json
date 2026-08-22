@@ -1,0 +1,5 @@
+{
+  "version": "1.2.1",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.2.1/CetaceaHubSetup-1.2.1.exe",
+  "notes": "优化：管理员指令规范化——功能开关调整为 /随机插话 0|1、/内容限制 0|1、/开场问候 0|1、/看图识别 0|1；聊天模式指令调整为 /聊天模式 ai|human（AI 模式/真人模式）。"
+}
