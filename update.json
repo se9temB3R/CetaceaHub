@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.4.0/CetaceaHubSetup-1.4.0.exe",
-  "sha256": "5959C74A96456328B0F33DE21AF80A010D61DC2E6998675BA7F2C9940F54C61E",
-  "notes": "人格生成与修改升级：分层结构化人设模板（相处世界地图与性格分层），生成的人格更立体自然。"
+  "version": "1.4.1",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.4.1/CetaceaHubSetup-1.4.1.exe",
+  "sha256": "310B3FD2BA71CC1BCEF770070649EB38320F2B8781945BC5E2EF8E7C7D695869",
+  "notes": "修复：图片识别与联网搜索偶发失效（每日限次重置逻辑错误）；优化配置热加载，界面改动立即生效。"
 }
