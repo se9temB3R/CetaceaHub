@@ -1,0 +1,6 @@
+{
+  "version": "1.4.1",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.4.1/CetaceaHubSetup-1.4.1.exe",
+  "sha256": "310B3FD2BA71CC1BCEF770070649EB38320F2B8781945BC5E2EF8E7C7D695869",
+  "notes": "修复：图片识别与联网搜索偶发失效（每日限次重置逻辑错误）；优化配置热加载，界面改动立即生效。"
+}
