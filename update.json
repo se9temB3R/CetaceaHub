@@ -1,6 +1,6 @@
 {
-  "version": "1.4.3",
-  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.4.3/CetaceaHubSetup-1.4.3.exe",
-  "sha256": "59AF137C7AD935F1E4D1192086683134C8728E233EB68EA96078E3CBA0E2FF76",
-  "notes": "修复：安装器新增升级残留清理——覆盖安装前整删旧版 NapCat 目录并全新铺设，老版本升级不再出现网关异常。"
+  "version": "1.4.4",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.4.4/CetaceaHubSetup-1.4.4.exe",
+  "sha256": "CDA2B111FE13BD2D0328CE4CEE0C1866102148B0317B8E4129035DA0845D8EE6",
+  "notes": "修复：NapCat 登录后自动补齐 OneBot11 配置（网关自愈，无需手动配置）；控制台新增 NapCat 管理页入口与扫码登录提示。"
 }
