@@ -1,0 +1,6 @@
+{
+  "version": "1.5.2",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.5.2/CetaceaHubSetup-1.5.2.exe",
+  "sha256": "9B1C8C1EF47421D1DD35929D2A96AB4A73F43D789EDDCAD9CD2F0A92B508FDDE",
+  "notes": "完善：升级安装器自动清理旧进程（提权补杀，无需手动关 QQ）；QQ 未登录时自动弹出登录二维码图片，扫码即恢复。"
+}
