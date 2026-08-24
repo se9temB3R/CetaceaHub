@@ -1,0 +1,6 @@
+{
+  "version": "1.6.0",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.6.0/CetaceaHubSetup-1.6.0.exe",
+  "sha256": "1D324529A7675B6D53010160D906C86F5BF7B5CA757C5727DE7BDEA35283298B",
+  "notes": "优化：控制台界面改版（布局更清爽、Token 卡片化展示）；网关自愈提速至 30 秒内自动恢复。"
+}
