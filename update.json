@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.5.0/CetaceaHubSetup-1.5.0.exe",
-  "sha256": "50E36D4241B2B6D21452EFF3A5695FDC959FE6BA3F2F9DCD0D5625E7D07E03F8",
-  "notes": "新增：登录引导自动值守——检测到 QQ 未登录时自动打开 NapCat 管理页并复制 API Token；联网配置自动补齐与重载（网关自愈），升级后无需手动配置。"
+  "version": "1.5.1",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.5.1/CetaceaHubSetup-1.5.1.exe",
+  "sha256": "C88423F4997A06D178FF0BC20D7EB5DAC57B92247DC27FACEA0EA4E79B63B648",
+  "notes": "修复：启动流程自动补齐联网配置（启动前自检），彻底解决登录后联网服务偶发未生效的问题；优化自愈脚本编码兼容性。"
 }
