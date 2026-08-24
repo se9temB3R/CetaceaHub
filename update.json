@@ -1,0 +1,6 @@
+{
+  "version": "1.5.4",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.5.4/CetaceaHubSetup-1.5.4.exe",
+  "sha256": "15856CC37CD6EB2BC0AF8C23BF1024A02A432A6F40E97257E3A545AE113AD7E8",
+  "notes": "完善：网关自愈改走 NapCat 官方接口（登录后直接生效、无需重启）；控制台 Token 一键复制。"
+}
