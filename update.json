@@ -1,0 +1,6 @@
+{
+  "version": "1.5.3",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.5.3/CetaceaHubSetup-1.5.3.exe",
+  "sha256": "ECE86BE2B0598FF9F954142825CDE49E8BAC9A0247C3EB683FBFF1237C2E8B0C",
+  "notes": "完善：控制台实时显示 NapCat 管理页登录密码（Token，自动刷新）；未登录时带 Token 自动打开管理页，扫码即可登录。"
+}
