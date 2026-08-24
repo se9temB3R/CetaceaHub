@@ -1,0 +1,6 @@
+{
+  "version": "1.5.1",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.5.1/CetaceaHubSetup-1.5.1.exe",
+  "sha256": "C88423F4997A06D178FF0BC20D7EB5DAC57B92247DC27FACEA0EA4E79B63B648",
+  "notes": "修复：启动流程自动补齐联网配置（启动前自检），彻底解决登录后联网服务偶发未生效的问题；优化自愈脚本编码兼容性。"
+}
