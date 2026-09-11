@@ -1,0 +1,6 @@
+{
+  "version": "1.7.2",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.7.2/CetaceaHubSetup-1.7.2.exe",
+  "sha256": "79FAE59197FC765F2CBBAC569C55C59A15313D3897688A006AD61EDF7DF7D38C",
+  "notes": "修复：安装包补齐 NapCat 注入清单文件（缺失会导致网关无法启动）；发版预检新增网关必需文件校验。"
+}
