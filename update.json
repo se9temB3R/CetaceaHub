@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.7.1/CetaceaHubSetup-1.7.1.exe",
-  "sha256": "3C55F24D54FD3E801A13080CB3F6AAAE247B9643A53E94E72AE134FB87177CFB",
-  "notes": "修复：图片识别未走原生多模态通道、思考模式占用输出预算导致回复偶发为空；安装包精简（不再包含运行期日志与缓存文件）。"
+  "version": "1.7.2",
+  "url": "https://github.com/se9temB3R/CetaceaHub/releases/download/v1.7.2/CetaceaHubSetup-1.7.2.exe",
+  "sha256": "79FAE59197FC765F2CBBAC569C55C59A15313D3897688A006AD61EDF7DF7D38C",
+  "notes": "修复：安装包补齐 NapCat 注入清单文件（缺失会导致网关无法启动）；发版预检新增网关必需文件校验。"
 }
